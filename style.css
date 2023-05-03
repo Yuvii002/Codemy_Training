@@ -1,9 +1,13 @@
 div{
 
-    background-color: aqua;
+    background-color: rgb(254, 0, 0);
     width: 600px;
     height: 410px;
 
+}
+
+.firstbox{
+    color: rgb(255, 255, 255);
 }
 
 .secondbox{
